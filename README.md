@@ -281,11 +281,3 @@ Special thanks to:
 * All publicly available crowd-counting benchmark providers
   
 ---
-
-# 📬 Contact
-
-**BIbek Das**
-Indian Institute of Technology Patna
-📧 [bibek.cse@gmail.com](mailto:bibek.cse@gmail.com)
-
----
