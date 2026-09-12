@@ -1,5 +1,4 @@
 # Do Vision-Language Models Truly Count?
-## Revealing the Semantic-Localization Gap in Dense Crowd Understanding
 
 Official repository for **VisionCrowdTest**, a diagnostic benchmark for evaluating whether VLM crowd-count predictions are supported by spatial visual evidence.
 
