@@ -41,8 +41,6 @@ Our analysis reveals a **Semantic-Localization Gap (SLG)**: VLMs can produce pla
 - Gemma-3-12B
 - Ministral-3-8B
 
-All models are evaluated **zero-shot**, without crowd-counting-specific fine-tuning.
-
 ## Metrics
 
 - **PMAE:** Semantic counting error.
